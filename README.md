@@ -14,9 +14,9 @@ Displays the number of characters in each line of a text file.
 
 USAGE
 -----
-.\Show-LineLength <filename>
+.\Show-LineLength [filename]
 
-<filename> - text file to display line lengths
+[filename] - text file to display line lengths
 
 EXAMPLE
 -------
